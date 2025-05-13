@@ -1,0 +1,13 @@
+/* css for the box */
+#shape{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+}
+/* css for the webpage */
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: hsl(0, 0, 94%);
+}
